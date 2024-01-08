@@ -4,8 +4,6 @@ um modelo de linguagem avançado desenvolvido pela OpenAI. O programa proporcion
 permitindo que os usuários façam perguntas específicas e recebam respostas informativas sobre Python, 
 salários de cientistas de dados e média salarial no Brasil.
 
-## Funcionalidades Destacadas
-
 ## Boas-vindas Personalizadas:
 
 Cumprimenta o usuário pelo nome,
